@@ -1,0 +1,57 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "finance.biggo.com",
+      "title": "OpenAI President Predicts 'The Interface Will Disappear'",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5aTVBaWZnZnA5d2FEcWNGVG5PeHJKZEpLMGxDWWpIdFRnNVlyOTgtZGJYSHFKYWMxbkExTUlMZFdTbTdjcEVmczZVWlNJTmpuTkR5dVVlaWdlbWhpRkgtOVpDaE1DTy00cXl0aDJTUFFPUzVDd2c"
+    },
+    {
+      "source": "Engadget",
+      "title": "Only These iPhone Models Are Getting The New Siri AI This Fall",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE"
+    },
+    {
+      "source": "finance.biggo.com",
+      "title": "Tesla Imposes $200 Weekly AI Spending Cap, Exempts Musk's Grok",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aY2luM240MGR5cE1fNzlNbzB0UzJ6SUk1RHQ3SUliRmJQSE0wRDczWEV3c21nNzFzZDJWdXRLQTBZRm9LX2doNVJCUWR5SWVzcGxJX2dfMmhNT1QtbDZmZlc2Ny11SWlKWVBwc3g4TXM2RmYweHc"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title+kind+audience+generated_at to select workflow-command-center hero, Outfit typography, gapless-bento-grid + decision-matrix + source-card-dossier components, GSAP paradigms image-scale-fade-scroll and hover-physics. AIDA Check: clear hero attention, proof via sources, desire via workflow guide, action via CTA. Font Selection: Outfit (primary) with system fallbacks. Hero Math Verification: clamp sizing yields 2\u20133 line H1 at 1120px max-width. Bento Density Verification: CSS includes grid-auto-flow: dense on .bento-grid. GSAP Motion Selection: guarded GSAP fades and hover physics. Label Sweep & Button Check: black pill primary CTA and high-contrast secondary CTA verified.",
+  "generated_at": "2026-07-06T12:27:51.398323+00:00",
+  "headline": "Personal AI Agent Market Brief \u2014 What Matters Now for Buyers and Builders",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a long-form lead analysis, practical how-to explainer, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better. Make it read like a useful market briefing, not a list of summaries.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A field\u2011tested market briefing for teams tracking personal AI agents and computer\u2011use assistants. This page synthesizes recent news with practical guidance, compares leading assistants like ChatGPT, Gemini, Grok, Siri, Folk, and Orchids, and explains why Super\u2019s reusable computer\u2011use cache changes the economics of repeated workflows."
+}
